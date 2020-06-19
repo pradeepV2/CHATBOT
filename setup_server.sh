@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Don't use this script for now!"
+echo "Don't use this now!"
 exit 1
 
 cd chatbot_website/
